@@ -1,13 +1,15 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
-### AIM :To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
-
 
 ### NAME : PRIYADHARSHINI.E
 ### REGISTER NUMBER : 212223230159
 ### DATE : 16-04-2024
 ### DEPT : B.TECH (AIDS)
-      
+
+
+
+### AIM :To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+     
 ### EQUIPMENT REQUIRED : 
 
        Instrial manipulator , teach pendant and associated program platform 
